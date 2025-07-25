@@ -1,0 +1,7 @@
+ad_manager:
+  application_name: gam-automation
+  network_code: 'YOUR_NETWORK_CODE_HERE'
+  service_account_email: 'YOUR_SERVICE_ACCOUNT_EMAIL'
+  path_to_private_key_file: 'path/to/your/service_account_key.json'
+  impersonated_email: 'OPTIONAL_USER_EMAIL_IF_NEEDED'
+  developer_token: 'YOUR_DEVELOPER_TOKEN_HERE'
