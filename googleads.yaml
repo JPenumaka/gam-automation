@@ -1,0 +1,6 @@
+ad_manager:
+  application_name: 'My GAM App'
+  network_code: '2922'
+  developer_token: 'HzkUCcbSn0eObWq0rOWHMg'
+  service_account_email: 'ad-manager-api-user@gam-auutomation.iam.gserviceaccount.com'
+  path_to_private_key_file: 'credentials.json'

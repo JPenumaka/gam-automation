@@ -1,0 +1,5 @@
+import os
+
+API_VERSION = "v202408"
+DEVELOPER_TOKEN = os.getenv("GAM_DEVELOPER_TOKEN")
+NETWORK_CODE = os.getenv("GAM_NETWORK_CODE")
